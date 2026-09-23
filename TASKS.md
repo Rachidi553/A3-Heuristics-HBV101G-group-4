@@ -6,6 +6,8 @@
 ## Tasks fyrir heuristics evaluation
 Skráið 5–7 notendaverkefni (tasks) sem þið notið við rýnina. Númerið þau og notið **task-númer** þegar þið skráið issues.
 
+**Website:** _[Veðurstofa Íslands]_
+
 | # | Heiti tasks | Stutt lýsing á aðgerð/markmiði | Slóð(ir) sem prófaðar voru |
 |---|-------------|--------------------------------|-----------------------------|
 | 1 | Remove the empty spaces |   Remove banenrs and remove the empty spaces throughout the website    |       https://vedur.is/     |
