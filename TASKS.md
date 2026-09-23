@@ -1,7 +1,7 @@
 # HÓPUPPLÝSINGAR & TASK-LISTI
 
 **Hópanúmer:** _[t.d. H12]_  
-**Nöfn nemenda:** _[Nafn A]_, _[Nafn B]_, _[Nafn C]_
+**Nöfn nemenda:** _[Ismael]_, _[Einar]_, _[Viktor]_
 
 ## Tasks fyrir heuristics evaluation
 Skráið 5–7 notendaverkefni (tasks) sem þið notið við rýnina. Númerið þau og notið **task-númer** þegar þið skráið issues.
