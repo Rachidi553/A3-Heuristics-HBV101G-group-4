@@ -8,8 +8,8 @@ Skráið 5–7 notendaverkefni (tasks) sem þið notið við rýnina. Númerið 
 
 | # | Heiti tasks | Stutt lýsing á aðgerð/markmiði | Slóð(ir) sem prófaðar voru |
 |---|-------------|--------------------------------|-----------------------------|
-| 1 |             |                                |                             |
-| 2 |             |                                |                             |
+| 1 | Remove the empty spaces |   Remove banenrs and remove the empty spaces throughout the website    |       https://vedur.is/     |
+| 2 |  Modernize  |  Fix old style and make it look more modern  |       https://vedur.is/        |
 | 3 |             |                                |                             |
 | 4 |             |                                |                             |
 | 5 |             |                                |                             |
